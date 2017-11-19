@@ -1,0 +1,13 @@
+name: nycdsa_ht_rshiny
+title: nycdsa_ht_rshiny
+username:
+account: huytquoc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228203
+bundleId: 1081756
+url: https://huytquoc.shinyapps.io/nycdsa_ht_rshiny/
+when: 1510951239.39841
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_tab.R|data_V1.Rda|data/.DS_Store|nycdsa_ht_rshiny/.git/config|nycdsa_ht_rshiny/.git/description|nycdsa_ht_rshiny/.git/HEAD|nycdsa_ht_rshiny/.git/hooks/applypatch-msg.sample|nycdsa_ht_rshiny/.git/hooks/commit-msg.sample|nycdsa_ht_rshiny/.git/hooks/post-update.sample|nycdsa_ht_rshiny/.git/hooks/pre-applypatch.sample|nycdsa_ht_rshiny/.git/hooks/pre-commit.sample|nycdsa_ht_rshiny/.git/hooks/pre-push.sample|nycdsa_ht_rshiny/.git/hooks/pre-rebase.sample|nycdsa_ht_rshiny/.git/hooks/prepare-commit-msg.sample|nycdsa_ht_rshiny/.git/hooks/update.sample|nycdsa_ht_rshiny/.git/info/exclude
